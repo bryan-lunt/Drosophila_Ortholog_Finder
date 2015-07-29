@@ -1,0 +1,20 @@
+Here are some links that will be useful later if I write my own from scratch:
+
+Python LiftOver reader/parser.
+https://github.com/konstantint/pyliftover
+
+UCSC sourcecode:
+http://hgdownload.cse.ucsc.edu/admin/exe/
+
+Links to Liftover files:
+http://hgdownload.soe.ucsc.edu/downloads.html#fruitfly
+
+
+A very fast (mem-mapped?) reader for .2bit files:
+https://pythonhosted.org/twobitreader/twobitreader.html
+(Given how fast this is, there is no way it loads the whole thing into memory.)
+
+Untried library including 2bit support:
+https://pypi.python.org/pypi/ngslib/1.1.9
+
+
